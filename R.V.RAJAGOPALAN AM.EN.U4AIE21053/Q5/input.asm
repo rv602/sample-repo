@@ -1,0 +1,3 @@
+D=M+1;JMP
+D;JGT
+M=A-1
